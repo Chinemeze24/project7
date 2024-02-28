@@ -1,0 +1,210 @@
+    body{
+        /*MOBILE FIRST*/
+        background-color:whitesmoke;
+        font-family: "Poppins";
+    }
+    
+    nav{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        margin-top: auto;
+    }
+
+.logo{
+    width: 200px;
+    height: 77px;
+    align-items: left;
+}
+
+nav ul{
+    display: none;
+}
+
+nav ul li a{
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px 10px;
+}
+
+nav button{
+        font-size: 12px;
+        background-color: #256ce1;
+        border: none;
+        border-radius: 10px;
+        color: white;
+        }
+
+    .avail{
+        border-radius: 20px;
+        background-color: rgb(220, 235, 252);
+        color:#41BEFF;
+        width: fit-content;
+        text-align: center;
+        padding: 5px 5px;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 50px;
+        margin-bottom: 0;
+    }
+
+.avail-span{
+    background-color: #256ce1;
+    color: #ffffff;
+    border-radius: 20px;
+    text-align: center;
+    padding: 1px 5px;
+    }
+    
+    .connect{
+        font-size: 40px;
+        color: #020F33 !important;
+        text-align: center;
+        margin-top: 10px;
+    }   
+    
+      
+    .connect span{
+        text-align: center;
+            font-size: 40px;
+            text-align: cente;
+            border-radius: 15px;
+            color: #06A0F1;
+        }
+
+        .say{
+            color:#486581;
+            text-align: center;
+            font-size: 14px;
+        }
+
+
+
+.google-app{
+    width: 150px;
+    height: 45px;
+    border-radius: 20px;
+    justify-content: space-around;
+    flex-direction: row;
+    padding: 15px;
+    margin-left: 40px;
+
+}
+
+.app-store{
+    width: 150px;
+    height: 45px;
+    border-radius: 20px;
+    justify-content: space-around;
+    padding: 15px;
+    margin-right: 10px;
+}
+
+.effortless{
+width: 400px;
+height: 250px;
+
+}
+.item-rev{
+    font-size: 50px;
+    color:  #06A0F1;
+    display: flex;
+    font-family:"Poppins";
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    
+}
+
+.item-rev2{
+font-size: 30px;
+text-align: center;
+color: #020F33 !important;
+
+
+}
+
+section p{
+    font-size: 14px;
+    text-align: center;
+    color: #486581;
+    
+}
+.revolutioize-image2{
+    justify-content: right;
+    width: 100%;
+    height: 100%;
+    
+}    
+    
+.evlyn-image{
+    width: 300px;
+    height: 200px;
+    justify-content: left;
+}
+
+.more{
+    background-color: #06A0F1;
+    border-radius: 50px;
+    text-align: center;
+    width: 150px;
+    height: 60px;
+    font-family: "Poppins";
+    color: #FFFFFF;
+    font-size: large;
+}
+
+.hand{
+    width: 250px;
+    height: 180px;
+    justify-content: left;
+}
+
+.virtual h1{
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100px;
+    font-size: 30px;
+    color: #020F33 !important;
+
+}
+
+.conn{
+    font-size: 40px;
+    text-align: cente;
+    border-radius: 15px;
+    color: #0087a2;
+}
+
+.any{
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100px;
+    font-size: 30px;
+    color: #020F33 !important; 
+}
+
+.where{
+    text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 100px;
+    font-size: 30px;
+    color: #020F33 !important; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
